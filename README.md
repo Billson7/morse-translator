@@ -6,4 +6,6 @@ Convert text to morse code!
 
 [Check it out!](https://morse-code-text-converter.netlify.app/)
 
+Inspired by @cassidoo morsemoji
+
 This project was built with [React](https://reactjs.org/), [Vite](https://vitejs.dev/) and [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard)!
