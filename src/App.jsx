@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1 className="title"> Morse code translator 🧑‍💻</h1>
+      <h1 className="title"> Morse code translator 🤐</h1>
       <p className="subTitle">Convert your text to morse code!</p>
       <p className="errorMessage">{error}</p>
       <br />
