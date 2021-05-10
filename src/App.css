@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #fdfffc;
+}
+
+.subTitle {
+  margin-top: -25px;
+  font-size: 1.5rem;
+  color: #adb5bd;
+}
+
+.errorMessage {
+  color: #f4ac45;
+}
+
+input {
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  background-color: #f4ac45;
+  text-align: center;
+  font-size: 1.75rem;
+}
+
+.translateTitle {
+  font-size: 2rem;
+  color: #fdfffc;
+}
+
+.textBeforeMorse {
+  color: #fdfffc;
+}
+
+.textAfterMorse {
+  color: #fdfffc;
+}
+
+button {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  background-color: #f4ac45;
+}
