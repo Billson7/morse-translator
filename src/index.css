@@ -1,3 +1,5 @@
+@import "victormono";
+
 body {
   background-color: #19323c;
   margin: 0;
@@ -6,10 +8,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Victor Mono", source-code-pro, "typewriter";
+  font-family: "Victor Mono", "Roboto", source-code-pro, "typewriter";
 }
 
 code {
-  font-family: "Victor Mono", source-code-pro, Menlo, Monaco, Consolas,
-    "Courier New", monospace;
+  font-family: "Victor Mono", monospace;
 }
