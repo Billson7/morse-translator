@@ -25,7 +25,7 @@ function translate(character, dot, dash, setError) {
 
   if (!morseDict[character]) {
     setError(
-      "Please use a valid alphanumeric character, or basic punctuation, or ELSE."
+      "Please use a valid alphanumeric character, or basic punctuation, nothing fancy!"
     );
     return null;
   }
